@@ -1,0 +1,30 @@
+ul {
+  list-style-type: none;
+}
+li {
+  float: left;
+}
+h1 {
+  clear: left;
+}
+.Symon img {
+  border-radius: 20%;
+}
+.Symon img:hover {
+  transform: scale(1.1);
+  filter: grayscale(50%);
+}
+.Kierra img {
+  border-radius: 20%;
+}
+.Kierra img:hover {
+  transform: scale(1.1);
+  filter: drop-shadow(50%);
+}
+.Renzo img {
+  border-radius: 20%;
+}
+.Renzo img:hover {
+  transform: scale(1.1);
+  filter: drop-shadow(50%);
+}
