@@ -6,12 +6,13 @@ li {
   display: inline;
 }
 .Nav a{
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     text-decoration: none;
     padding-top: 10px;
     padding-bottom: 10px;
     padding: 20px;
+    font-family: 'black 900';
 }
 .Nav{
     position: sticky;
@@ -21,9 +22,65 @@ li {
     background-color: #A2655F;
 }
 a:link{
-    color: white bold;
+    color: rgb(0, 0, 0);
 }
 a:visited{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
+footer {
+    background-color: peachpuff;
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+    height: 240px;
+    position: relative;
+    top: 800px;
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+  }
+  
+  .social-icons a {
+    display: inline-block;
+    width: 32px; 
+    height: 31px; 
+    margin: 0 10px;
+    background-image: url('../images/Social.png');
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    position: relative;
+    right: 650px;
+    bottom: 360px;
+  }
+  
+  .symon {
+    background-position: -343px -145px; 
+  }
+  
+  .Kierra {
+    background-position: -343px -145px; 
+  }
+  
+  .Renzo {
+    background-position: -343px -145px; 
+  }
+  footer h1{
+    Position:relative;
+    right:650px;
+    bottom: 270px;
+  }
+  .dogs{
+    position: relative;
+    right: 650px;
+    bottom: 260px;
+  }
+  .Trademark{
+    position: relative;
+    bottom: 150px;
+  }
+  footer>img{
+    position: relative;
+    bottom: 450px;
+  }
