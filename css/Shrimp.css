@@ -27,6 +27,22 @@ a:link{
 a:visited{
     color: rgb(0, 0, 0);
 }
+.p1{
+  text-align: justify;
+  text-indent: 100px;
+  width: 225px;
+  font-size: 20px;
+  float: left;
+  margin-left: 450px;
+}
+.p2{
+  text-align: justify;
+  text-indent: 100px;
+  width: 225px;
+  font-size: 20px;
+  float:right;
+  
+}
 footer {
     background-color: peachpuff;
     color: #000000;
