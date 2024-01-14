@@ -13,9 +13,11 @@ li {
     padding-bottom: 10px;
     padding: 20px;
     font-family: 'black 900';
+    width: 100%;
 }
 .Nav{
     position: sticky;
+    text-align: center;
     font-family: 'calibri';
     font-size: 50px;
     color: #A2655F;
@@ -46,7 +48,7 @@ footer {
     color: #000000;
     padding: 20px;
     text-align: center;
-    height: 240px;
+    height: 270px;
     position: relative;
     top: 800px;
   }
@@ -63,7 +65,7 @@ footer {
     background-image: url('../images/Social.png');
     background-repeat: no-repeat;
     border-radius: 30px;
-    position: relative;
+    
     right: 650px;
     bottom: 360px;
   }
@@ -80,20 +82,20 @@ footer {
     background-position: -343px -145px; 
   }
   footer h1{
-    Position:relative;
+    
     right:650px;
     bottom: 270px;
   }
   .dogs{
-    position: relative;
+    
     right: 650px;
     bottom: 260px;
   }
   .Trademark{
-    position: relative;
+    
     bottom: 150px;
   }
   footer>img{
-    position: relative;
+    
     bottom: 450px;
   }

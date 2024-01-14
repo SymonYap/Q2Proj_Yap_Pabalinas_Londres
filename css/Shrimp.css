@@ -12,7 +12,7 @@ li {
     padding-top: 10px;
     padding-bottom: 10px;
     padding: 20px;
-    font-family: 'black 900';
+    font-family: 'black 900'
 }
 .Nav{
     position: sticky;
@@ -20,6 +20,7 @@ li {
     font-size: 50px;
     color: #A2655F;
     background-color: #A2655F;
+    text-align: center;
 }
 a:link{
     color: rgb(0, 0, 0);
@@ -33,14 +34,15 @@ a:visited{
   width: 225px;
   font-size: 20px;
   float: left;
-  margin-left: 450px;
+  margin-right: 100px;
+  margin-left: 415px;
 }
 .p2{
   text-align: justify;
   text-indent: 100px;
   width: 225px;
   font-size: 20px;
-  float:right;
+  display: inline-block;
   
 }
 footer {
@@ -48,9 +50,10 @@ footer {
     color: #000000;
     padding: 20px;
     text-align: center;
-    height: 240px;
+    height: 270px;
     position: relative;
-    top: 800px;
+    top: 600px;
+    width: 100%;
   }
   
   .social-icons {
@@ -65,7 +68,7 @@ footer {
     background-image: url('../images/Social.png');
     background-repeat: no-repeat;
     border-radius: 30px;
-    position: relative;
+    
     right: 650px;
     bottom: 360px;
   }
@@ -82,20 +85,20 @@ footer {
     background-position: -343px -145px; 
   }
   footer h1{
-    Position:relative;
+    
     right:650px;
     bottom: 270px;
   }
   .dogs{
-    position: relative;
+    
     right: 650px;
     bottom: 260px;
   }
   .Trademark{
-    position: relative;
+   
     bottom: 150px;
   }
   footer>img{
-    position: relative;
+    
     bottom: 450px;
   }
