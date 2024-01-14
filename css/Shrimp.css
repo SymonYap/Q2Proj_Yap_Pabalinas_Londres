@@ -28,31 +28,53 @@ a:link{
 a:visited{
     color: rgb(0, 0, 0);
 }
-.p1{
-  text-align: justify;
-  text-indent: 100px;
-  width: 225px;
-  font-size: 20px;
-  float: left;
-  margin-right: 100px;
-  margin-left: 415px;
+.symon:hover{
+  background: url('../images/Social.png') no-repeat -343px -75px;
+width: 32px;
+height: 31px;
 }
-.p2{
+.Kierra:hover{
+  background: url('../images/Social.png') no-repeat -343px -75px;
+width: 32px;
+height: 31px;
+}
+.Renzo:hover{
+  background: url('../images/Social.png') no-repeat -343px -75px;
+width: 32px;
+height: 31px;
+}
+.p1>p{
   text-align: justify;
   text-indent: 100px;
-  width: 225px;
-  font-size: 20px;
-  display: inline-block;
+  width: 550px;
+  font-size: 25px;
+  margin-left: 420px;
   
 }
+#pic{
+  margin-left: 455px;
+}
+#vid{
+  margin-left: 455px;
+
+}
+.p2>p{
+  text-align: justify;
+  text-indent: 100px;
+  width: 550px;
+  font-size: 25px;
+  margin-left: 420px;
+  
+}
+
 footer {
     background-color: peachpuff;
     color: #000000;
     padding: 20px;
     text-align: center;
-    height: 270px;
+    height: 300px;
     position: relative;
-    top: 600px;
+    top: 400px;
     width: 100%;
   }
   

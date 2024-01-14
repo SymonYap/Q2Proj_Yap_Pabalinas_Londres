@@ -33,13 +33,13 @@ html{
 .p1{
   margin-top: 400px;
   width: 900px;
-  font-size: 20px;
+  font-size: 25px;
   text-align: justify;
   margin-left: 225px;
 }
 .p2{
   width: 900px;
-  font-size: 20px;
+  font-size: 25px;
   text-align: justify;
   margin-left: 225px;
 }
@@ -52,15 +52,29 @@ li {
 h1 {
   clear: left;
 }
-
+.symon:hover{
+  background: url('../images/Social.png') no-repeat -343px -75px;
+width: 32px;
+height: 31px;
+}
+.Kierra:hover{
+  background: url('../images/Social.png') no-repeat -343px -75px;
+width: 32px;
+height: 31px;
+}
+.Renzo:hover{
+  background: url('../images/Social.png') no-repeat -343px -75px;
+width: 32px;
+height: 31px;
+}
 footer {
   background-color: peachpuff;
   color: #000000;
   padding: 20px;
   text-align: center;
-  height: 270px;
+  height: 300px;
   position: relative;
-  top: 1000px;
+  top: 400px;
   width: 100%;
 }
 

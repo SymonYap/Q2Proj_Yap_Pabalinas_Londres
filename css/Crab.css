@@ -29,28 +29,54 @@ a:link{
 a:visited{
     color: rgb(0, 0, 0);
 }
-.p1{
+
+.p1>p{
   text-align: justify;
   text-indent: 100px;
-  width: 550px;
-  margin-left: 400px;
-  font-size: 20px;
+  width: 450px;
+  margin-left: 50px;
+  font-size: 25px;
+  margin-left: 420px;
 }
-.p2{
+#pic{
+  margin-left: 460px;
+  
+  
+}
+.p2>p{
   text-align: justify;
   text-indent: 100px;
   width: 550px;
-  margin-left: 400px;
-  font-size: 20px;
+  margin-left: 410px;
+  font-size: 25px;
+}
+#vid{
+  
+  margin-left: 450px;
+}
+.symon:hover{
+  background: url('../images/Social.png') no-repeat -343px -75px;
+width: 32px;
+height: 31px;
+}
+.Kierra:hover{
+  background: url('../images/Social.png') no-repeat -343px -75px;
+width: 32px;
+height: 31px;
+}
+.Renzo:hover{
+  background: url('../images/Social.png') no-repeat -343px -75px;
+width: 32px;
+height: 31px;
 }
 footer {
     background-color: peachpuff;
     color: #000000;
     padding: 20px;
     text-align: center;
-    height: 270px;
+    height: 280px;
     position: relative;
-    top: 800px;
+    top: 400px; 
     width: 100%;
   }
   
