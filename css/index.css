@@ -29,7 +29,19 @@ html{
   position: relative;
   top: 80px;
 }
-
+.p1{
+  margin-top: 400px;
+  width: 900px;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 225px;
+}
+.p2{
+  width: 900px;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 225px;
+}
 ul {
   list-style-type: none;
 }
