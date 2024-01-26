@@ -91,7 +91,6 @@ footer {
   background-image: url("../images/Social.png");
   background-repeat: no-repeat;
   border-radius: 30px;
-
   right: 650px;
   bottom: 360px;
 }
@@ -106,18 +105,4 @@ footer {
 
 .Renzo {
   background-position: -343px -145px;
-}
-footer h1 {
-  right: 650px;
-  bottom: 270px;
-}
-.dogs {
-  right: 650px;
-  bottom: 260px;
-}
-.Trademark {
-  bottom: 150px;
-}
-footer > img {
-  bottom: 450px;
 }

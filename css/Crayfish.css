@@ -106,18 +106,3 @@ footer {
   width: 32px;
   height: 31px;
 }
-
-footer h1 {
-  right: 650px;
-  bottom: 270px;
-}
-.dogs {
-  right: 650px;
-  bottom: 260px;
-}
-.Trademark {
-  bottom: 150px;
-}
-footer > img {
-  bottom: 450px;
-}
