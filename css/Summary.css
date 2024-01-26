@@ -1,0 +1,161 @@
+html {
+    background-color: #5f9ca2;
+    margin: 0;
+  }
+  li {
+    display: inline;
+  }
+  .nav>h1{
+    border: #A2655F;
+    padding: 20px;
+    background-color: #A2655F;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    transform: skew(-30deg);
+    position: relative;
+  }
+  .nav a {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 20px;
+    font-family: "black 900";
+  }
+  .nav {
+    position: sticky;
+    font-family: "calibri";
+    font-size: 50px;
+    color: #a2655f;
+    background-color: #a2655f;
+    text-align: center;
+  }
+  a:link {
+    color: rgb(0, 0, 0);
+  }
+  a:visited {
+    color: rgb(0, 0, 0);
+  }
+  .spritecrab {
+	background: url('../images/Crab_sprite.png') no-repeat -17px -18px;
+	width: 84px;
+	height: 81px;
+    animation: spritecrab 5s steps(24) infinite;
+    }
+    @keyframes spritecrab{
+        from{background-position-x:0px;} 
+        to{background-position-x:-716px;} 
+
+    }
+    .crab{
+    margin-top: 200px;
+    width: 900px;
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 225px;
+  }
+  .lobster{
+    margin-top: 200px;
+    width: 900px;
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 225px;
+  }
+  .crayfish{
+    margin-top: 200px;
+    width: 900px;
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 225px;
+  }
+  .spriteshrimp {
+	background: url('../images/Shrimp_sprite.png') no-repeat -1px -3px;
+	width: 76px;
+	height: 69px;
+    animation: spriteshrimp 2s steps(10) infinite;
+  }
+  @keyframes spriteshrimp{
+    from{background-position-x:0px;} 
+    to{background-position-x:-780px;} 
+  }
+  .shrimp{
+    margin-top: 200px;
+    width: 900px;
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 225px;
+  }
+  .symon:hover{
+    background: url('../images/Social.png') no-repeat -343px -75px;
+  width: 32px;
+  height: 31px;
+  }
+  .Kierra:hover{
+    background: url('../images/Social.png') no-repeat -343px -75px;
+  width: 32px;
+  height: 31px;
+  }
+  .Renzo:hover{
+    background: url('../images/Social.png') no-repeat -343px -75px;
+  width: 32px;
+  height: 31px;
+  }
+  footer {
+    background-color: peachpuff;
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+    height: 300px;
+    position: relative;
+    top: 400px;
+    width: 100%;
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+  }
+  
+  .social-icons a {
+    display: inline-block;
+    width: 32px; 
+    height: 31px; 
+    margin: 0 10px;
+    background-image: url('../images/Social.png');
+    background-repeat: no-repeat;
+    border-radius: 30px;
+   
+    right: 650px;
+    bottom: 360px;
+  }
+  
+  .symon {
+    background-position: -343px -145px; 
+  }
+  
+  .Kierra {
+    background-position: -343px -145px; 
+  }
+  
+  .Renzo {
+    background-position: -343px -145px; 
+  }
+  footer h1{
+    
+    right:650px;
+    bottom: 270px;
+  }
+  .dogs{
+   
+    right: 650px;
+    bottom: 260px;
+  }
+  .Trademark{
+    
+    bottom: 150px;
+  }
+  footer>img{
+    
+    bottom: 450px;
+  }  
